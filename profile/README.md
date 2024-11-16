@@ -2,13 +2,11 @@
 
 **Here are some ideas to get you started:**
 
-https://retrobowl2.blog
+<a href="https://retrobowl2.blog">PLAY RETRO </a>
 
-https://cookielessons.blog
+<a href="https://retro2.blog">play retro bowl</a>
 
-https://3run.blog
 
-https://mathlessons.live
 
 
 
