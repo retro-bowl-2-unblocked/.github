@@ -2,7 +2,7 @@
 
 **Here are some ideas to get you started:**
 
-<a href="https://retrobowl2.blog">PLAY RETRO </a>
+<h2><a href="https://magar-io.com">PLAY RETRO </a></h2>
 
 <a href="https://retro2.blog">play retro bowl</a>
 
