@@ -2,10 +2,11 @@
 
 **Here are some ideas to get you started:**
 
-<h2><a href="https://magar-io.com">PLAY RETRO </a></h2>
+<h2><a href="https://magar-io.com">click to play >>  RETRO BOWL </a></h2>
 
-<a href="https://retro2.blog">play retro bowl</a>
+<h2><a href="https://retro2.blog">click to play>> Retro Bowl</a></h2>
 
+<h2><a href="https://classroom1.space">click to play>> Retro Bowl</a></h2>
 
 
 
